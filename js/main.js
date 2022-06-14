@@ -1,22 +1,22 @@
 const picArray = [
-  {src: './img/baisen_first-half_01.svg'},
-  {src: './img/baisen_first-half_02.svg'},
-  {src: './img/baisen_first-half_03.svg'},
-  {src: './img/baisen_first-half_04.svg'},
-  {src: './img/baisen_first-half_05.svg'},
-  {src: './img/baisen_first-half_06.svg'},
-  {src: './img/baisen_first-half_07.svg'},
-  {src: './img/baisen_first-half_08.svg'},
+  {src: './img/baisen_first-half_01.jpg'},
+  {src: './img/baisen_first-half_02.jpg'},
+  {src: './img/baisen_first-half_03.jpg'},
+  {src: './img/baisen_first-half_04.jpg'},
+  {src: './img/baisen_first-half_05.jpg'},
+  {src: './img/baisen_first-half_06.jpg'},
+  {src: './img/baisen_first-half_07.jpg'},
+  {src: './img/baisen_first-half_08.jpg'},
   ];
   
 const picArray2 = [
-  {src: './img/baisen_latter-half_01.svg'},
-  {src: './img/baisen_latter-half_02.svg'},
-  {src: './img/baisen_latter-half_03.svg'},
-  {src: './img/baisen_latter-half_04.svg'},
-  {src: './img/baisen_latter-half_05.svg'},
-  {src: './img/baisen_latter-half_06.svg'},
-  {src: './img/baisen_latter-half_07.svg'},
+  {src: './img/baisen_latter-half_01.jpg'},
+  {src: './img/baisen_latter-half_02.jpg'},
+  {src: './img/baisen_latter-half_03.jpg'},
+  {src: './img/baisen_latter-half_04.jpg'},
+  {src: './img/baisen_latter-half_05.jpg'},
+  {src: './img/baisen_latter-half_06.jpg'},
+  {src: './img/baisen_latter-half_07.jpg'},
   ];
 
   let counter = 0;
